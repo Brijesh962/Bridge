@@ -1,6 +1,22 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made for learning purpose as final year college project only and clonned from [Create React App](https://github.com/facebook/create-react-app).
+
+## Screen Shots of UI and Functionalities
+
+![Home Page (Login)](image.png)
+
+![Home Page (Sign Up)](image-1.png)
+
+![Chat Page](image-2.png)
+
+![Search Bar](image-3.png)
+
+![User Profile](image-4.png)
+
+![Create group chat](image-5.png)
+
+![Update group chat](image-6.png)
 
 ## Available Scripts
 
